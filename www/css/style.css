@@ -1,2 +1,9 @@
 /**/
-
+body{
+  background-repeat: no-repeat;
+  background-image: url(../imagens/fundo.jpeg);
+  background-size: cover;
+}
+.row img{
+  margin-top: -30px;
+}

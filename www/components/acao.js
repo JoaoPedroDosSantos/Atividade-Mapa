@@ -1,4 +1,5 @@
 
+
 $(document).on("click","#mapa",function(){
   function checkConnection(){
     var networkState = navigator.connection.type;
