@@ -7,3 +7,9 @@ body{
 .row img{
   margin-top: -30px;
 }
+#map{
+  margin-top: -10vh;
+}
+#voltar{
+  margin-top: 2vh;
+}

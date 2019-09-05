@@ -20,7 +20,7 @@ var onSuccess = function(position) {
      L.mapquest.map('map', {
   center: [position.coords.latitude, position.coords.longitude],
   layers: L.mapquest.tileLayer('map'),
-  zoom: 15
+  zoom: 16
 });
     };
     function onError(error) {
