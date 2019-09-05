@@ -1,8 +1,9 @@
 /**/
 body{
-  background-color: aqua;
+  background-repeat: no-repeat;
+  background-image: url(../imagens/fundo.jpeg);
+  background-size: cover;
 }
-a{
-  font-family: cursive;
-  font-size: 16px;
+.row img{
+  margin-top: -30px;
 }
